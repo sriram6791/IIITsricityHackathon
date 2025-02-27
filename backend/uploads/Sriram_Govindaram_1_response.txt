@@ -1,0 +1,5 @@
+summary: The resume belongs to Govindaram Sriram, a Computer Science and Engineering student specializing in Artificial Intelligence at the Indian Institute of Information Technology, Design & Manufacturing - Kancheepuram (expected graduation in 2026). He has a strong academic background with high scores in state board exams and a current CGPA of 7.92. He has worked on several projects involving web development, machine learning, and conversational AI. He possesses relevant technical skills in programming languages, web technologies, database systems, data science, and version control, complemented by coursework and certifications in AI and machine learning.
+
+sentiment: positive
+class: resume
+tags: Resume, Computer Science, Artificial Intelligence, Machine Learning, Web Development, Projects, Certifications, Education

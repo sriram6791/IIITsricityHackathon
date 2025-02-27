@@ -1,0 +1,4 @@
+summary: This text is from an NPTEL Natural Language Processing course, specifically Week 6, Assignment 6. It contains multiple-choice questions related to dependency grammars, parsing, and the Chu-Liu-Edmonds algorithm. The questions cover topics like head-dependent relations in dependency graphs, formal conditions on dependency graphs, and deterministic parsing. It appears the student has not correctly answered these questions.
+sentiment: negative
+class: document
+tags: NPTEL, Natural Language Processing, Dependency Grammar, Parsing, Chu-Liu-Edmonds Algorithm, Assignment, MST Parser

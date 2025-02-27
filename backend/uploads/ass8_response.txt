@@ -1,0 +1,4 @@
+summary: The text is an assignment from an NPTEL Natural Language Processing course, specifically Week 8. It includes multiple-choice questions covering lexical relations (homographs, homonyms, synonyms, hyponyms), lexical semantics, WordNet, and similarity measures. Questions involve identifying true/false statements and calculating Lin, Resnic, and Leacock-Chodorow similarities based on a provided wordnet noun taxonomy. There are also questions on word sense disambiguation.
+sentiment: neutral
+class: document
+tags: NPTEL, Natural Language Processing, Assignment, Lexical Semantics, WordNet, Similarity Measures, Homonyms, Hyponyms, Synonymy, Word Sense Disambiguation

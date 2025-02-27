@@ -1,0 +1,5 @@
+summary: This document confirms the successful payment for the Graduate Aptitude Test in Engineering (GATE) 2025 application. The organising institute is the Indian Institute of Technology Roorkee. The payment of ₹1800 was received under the name of Sriram Govindaram with enrollment ID R42ow55. The transaction number is 113478302008 and the bank reference number is 881626.
+
+sentiment: positive
+class: document
+tags: GATE 2025, IIT Roorkee, Payment Confirmation, Application Fee, Transaction Details
