@@ -431,12 +431,12 @@ Output should be strictly in the following json format ONLY JSON FORMAT STRICTLY
     grouped_text_response = model.generate_content(final_prompt)
     grouped_text = grouped_text_response.text
 
-    with open(grouped_filepath, 'w', encoding='utf-8') as f:
-        f.write(grouped_text)
+    # with open(grouped_filepath, 'w', encoding='utf-8') as f:
+    #     f.write(grouped_text)
         
-    print("grouped.txt created at:", grouped_filepath)
-    return jsonify({"message": "Grouped prompt generated successfully!", "grouped_prompt": grouped_text}), 200
-
+    # print("grouped.txt created at:", grouped_filepath)
+    # return jsonify({"message": "Grouped prompt generated successfully!", "grouped_prompt": grouped_text}), 200
+    return grouped_text
 ###############################################################################
 # RUN
 ###############################################################################
