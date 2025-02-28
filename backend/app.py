@@ -17,7 +17,7 @@ import google.generativeai as genai
 # CONFIGURE GEMINI
 ###############################################################################
 # Replace this with your actual API key
-API_KEY = "AIzaSyDmGsZVGp5bzKuXLHxiCMD9-BzqmHYGwcA"
+API_KEY = "AIzaSyDmGsZVGp5bzKuXLHxiCMD9-BzqmHYGwcA"                             #!  POINT ONE
 genai.configure(api_key=API_KEY)
 
 app = Flask(__name__)
@@ -128,14 +128,14 @@ def perform_ocr(filepath, filename):
     if file_extension == 'pdf':
         try:
             # Convert PDF to images
-            POPPLER_PATH = r'C:\Users\govin\Downloads\Release-24.08.0-0\poppler-24.08.0\Library\bin'
+            POPPLER_PATH = r'C:\Users\govin\Downloads\Release-24.08.0-0\poppler-24.08.0\Library\bin'            #! POINT TWO
             images = convert_from_path(filepath, poppler_path=POPPLER_PATH)
         except Exception as e:
             print("Error converting PDF to images:", e)
             raise e
 
         # Use EasyOCR on each PDF page (image)
-        reader = easyocr.Reader(['en'], gpu=False)
+        reader = easyocr.Reader(['en'], gpu=False)                           #! POINT THREE
         for image in images:
             img_np = np.array(image)
             result = reader.readtext(img_np, detail=0)
@@ -153,16 +153,16 @@ def perform_ocr(filepath, filename):
     metadata = f"MetaData : {{\nFileName: {filename}\nFileType: {file_extension}\n}}\n\n"
     final_text = metadata + extracted_text
 
-    # Save the final text (with metadata) to a .txt file
-    base_name = os.path.splitext(filename)[0]
-    txt_filename = base_name + ".txt"
-    txt_filepath = os.path.join(os.path.dirname(filepath), txt_filename)
-    try:
-        with open(txt_filepath, 'w', encoding='utf-8') as f:
-            f.write(final_text)
-        print(f"OCR text with metadata saved to: {txt_filepath}")
-    except Exception as e:
-        print("Error saving text file:", e)
+    # # Save the final text (with metadata) to a .txt file
+    # base_name = os.path.splitext(filename)[0]
+    # txt_filename = base_name + ".txt"
+    # txt_filepath = os.path.join(os.path.dirname(filepath), txt_filename)
+    # try:  
+    #     with open(txt_filepath, 'w', encoding='utf-8') as f:
+    #         f.write(final_text)
+    #     print(f"OCR text with metadata saved to: {txt_filepath}")
+    # except Exception as e:
+    #     print("Error saving text file:", e)
 
     return final_text
 
