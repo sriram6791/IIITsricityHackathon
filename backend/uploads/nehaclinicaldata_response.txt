@@ -1,0 +1,26 @@
+MetaData: {
+FileName: nehaclinicaldata.pdf
+FileType: pdf
+}
+summary: The document is a medical lab report for Neha Sharma, a 40-year-old female patient. The report details the results of a Complete Blood Count (CBC) test, revealing signs of anemia including low hemoglobin, RBC count, and PCV. Elevated RDW indicates anisocytosis. A slight rise in basophils is noted. Clinical correlation is advised by the pathologist.
+sentiment: neutral
+class: document
+tags: [CBC, Anemia, Blood Count, Lab Report, Hematology]
+datatype: both Numerical and Text
+importance: 5
+
+---------------------------------
+Medical data:
+PatientName:[Neha Sharma
+        Patient Identification: Name: Neha Sharma
+Age: 40 Years
+Sex: Female
+PID: 102
+Sample Collected At:
+B-24, Lotus Apartments,
+Indira Nagar; Bangalore
+Referred By:
+Dr: Anil Kapoor
+        Clinical Data : The CBC reveals signs of anemia with low hemoglobin (11.0 g/dL), RBC count (3.8 million/cumm); and PCV (34.0 %). An elevated RDW (16.0 %) indicates significant anisocytosis while a slight rise in basophils (2 %) warrants additional evaluation.
+]
+----------------------------------

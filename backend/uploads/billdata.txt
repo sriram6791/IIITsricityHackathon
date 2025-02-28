@@ -1,0 +1,96 @@
+MetaData : {
+FileName: billdata.pdf
+FileType: pdf
+}
+
+Hospital Name: Narayana Health Hospital & Diagnostics
+Address: No 12, Mount Road, Guindy,
+Chennai; Tamil Nadu, 600032
+Phone: +91-44-4567890
+Website: www.narayanahealth.com
+Bill Number: BILL-20250227-004
+Bill Date: 27/02/2025
+Patient ID: 104
+Patient Name: Priya lyer
+Address: Plot No.
+Gandhi Nagar; Chrompet; Chennai; Tamil Nadu, 600032
+Contact: +91-9876501122
+Description
+Quantity
+Unit Price (INR)
+Total (INR)
+General Consultation
+1
+750
+750
+Diagnostic Lab Tests (CBC, etc )
+1
+1350
+1350
+Radiology (Chest X-Ray)
+1
+600
+600
+Ultrasound Scan
+1
+1450
+1450
+Medicine Charges
+1
+2100
+2100
+Specialist Consultation
+1100
+1100
+Nursing Charges
+1
+750
+750
+Room Charges (2 days)
+2
+2700
+5400
+Ambulance Service
+1
+800
+800
+Physiotherapy Session
+1
+500
+500
+Post-Operative Care (if applicable)
+900
+900
+Miscellaneous Supplies
+1
+1150
+1150
+Administrative Fee
+1
+300
+300
+27 ,
+Subtotal:
+15,450 INR
+Discount:
+1,200 INR
+Service Tax (18% on Subtotal after discount):
+2,508 INR
+Grand Total:
+16,758 INR
+Payment Details:
+Payment Status: Pending
+Payment Mode: Not Yet Paid
+Due Date: 05/03/2025
+Additional Information:
+1_
+All charges are subject to applicable taxes
+2_
+This is an itemized bill for services rendered: Please review each entry carefully:
+3. For billing queries, please contact our department at +91-44-4567890.
+4_
+Retain this document for insurance reimbursement purposes.
+5_
+Online payment options are available at www.narayanahealth com/payment:
+Thank you for choosing Narayana Health Hospital & Diagnostics.
+We wish you a speedy recovery:

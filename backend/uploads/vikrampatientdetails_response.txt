@@ -1,0 +1,45 @@
+MetaData: {
+FileName: vikrampatientdetails.pdf
+FileType: pdf
+}
+summary: This document is a patient information form for Vikram Singh, born on 05/06/1990. It includes his personal details such as address, phone number, email, occupation, and emergency contact information. The form also contains his insurance details with ICICI Lombard and policy information. Vikram Singh has signed the form on 27/02/2025, certifying the accuracy of the information. The document also specifies his preferred contact method as phone and email.
+sentiment: neutral
+class: document
+tags: [Patient Information, Insurance, Contact Details, Personal Details, Emergency Contact]
+datatype: both Numerical and Text
+importance: 4
+---------------------------------
+Medical data:
+PatientName:[Vikram Singh
+Patient Identification:
+First Name: Vikram
+Last Name: Singh
+Date of Birth: 05/06/1990
+Gender: Male
+Blood Group: B+
+Marital Status: Married
+Occupation: Accountant
+Nationality: Indian
+Address:
+Flat No. 210, Shivaji Nagar;
+Pune, Maharashtra, 411005
+Phone: +91-9898765432
+Email: vikram.singh @example.com
+Preferred Contact Method:
+Phone
+Email
+Emergency Contact:
+Name: Rajesh Singh
+Relationship: Brother
+Phone: +91-9123456789
+Insurance Information:
+Insurance Company: ICICI Lombard Health Insurance
+Policy Number: ICIC123456
+Group Number: GRP11223
+Policy Validity: 01/07/2023
+30/06/2024
+Additional Details:
+Residential Status: Owner
+Emergency Address: Same as above
+]
+----------------------------------

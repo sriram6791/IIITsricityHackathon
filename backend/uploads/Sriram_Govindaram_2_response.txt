@@ -1,5 +1,10 @@
-summary: This document is a resume for Govindaram Sriram, a Computer Science and Engineering student at the Indian Institute of Information Technology Design & Manufacturing - Kancheepuram, specializing in Artificial Intelligence. It highlights his education, including strong academic performance in prior schooling. The resume also details projects in web development, fake news classification, and conversational AI, demonstrating skills in various programming languages, data science tools, and machine learning techniques. It also includes certifications and relevant coursework in areas like deep learning, database management, and AI.
-
+MetaData: {
+FileName: Sriram_Govindaram_2.pdf
+FileType: pdf
+}
+summary: This resume highlights Sriram Govindaram's education at the Indian Institute of Information Technology Design & Manufacturing, where he is pursuing a B.Tech in Computer Science with a specialization in AI. It showcases his projects in web development and machine learning, including a washing machine status tracker and a fake news classifier. His technical skills include programming languages, web technologies, database systems, and machine learning tools. He also has certifications in Machine Learning and Deep Learning from DeepLearning.AI and IIT Madras.
 sentiment: positive
 class: resume
-tags: Computer Science, Artificial Intelligence, Machine Learning, Deep Learning, Web Development, Education, Projects, Certifications
+tags: [Machine Learning, Artificial Intelligence, Web Development, Python, Deep Learning]
+datatype: both Numerical and Text
+importance: 4

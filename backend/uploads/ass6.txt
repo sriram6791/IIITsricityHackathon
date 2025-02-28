@@ -1,4 +1,4 @@
-MetaData: {
+MetaData : {
 FileName: ass6.pdf
 FileType: pdf
 }
@@ -381,14 +381,3 @@ Top
 Top
 top
 top
-"
-MetaData: {
-FileName: ass6.pdf
-FileType: pdf
-}
-summary: This document is about Week 6 Assignment of an NPTEL Natural Language Processing course. It includes questions on dependency grammars and parsing, MST-based dependency parsing, and Arc-Eager parsing. The assignment due date has passed, and the document indicates that the user has not submitted it. The text also contains lecture materials and quiz information related to the course. There are multiple-choice questions with incorrect answers and accepted answers.
-sentiment: negative
-class: document
-tags: NPTEL, NLP, Dependency Parsing, Assignment, Course
-datatype: both Numerical and Text
-importance: 3

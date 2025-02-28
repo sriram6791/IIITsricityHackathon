@@ -1,0 +1,36 @@
+MetaData: {
+FileName: nehabilldata.pdf
+FileType: pdf
+}
+summary: This document is a bill from Fortis Hospital & Diagnostics for patient Neha Sharma. It includes charges for various medical services such as consultation, lab tests, radiology, scans, medicine, nursing, room charges, and other fees. The bill also details the subtotal, discount, service tax, grand total, and payment details. The grand total amount is INR 30,568 paid via Credit Card. The bill date is 27/02/2025.
+sentiment: positive
+class: invoices
+tags: [Hospital Bill, Medical Services, Fortis Hospital, Patient Bill, Payment Details]
+datatype: both Numerical and Text
+importance: 4
+
+---------------------------------
+Medical data:
+Neha Sharma[
+Patient Identification:
+Patient ID: 102
+Patient Name: Neha Sharma
+Address: B-24, Lotus Apartments, Indira Nagar; Bangalore, Karnataka, 560038
+Contact: +91-9988776655
+Billing :
+Hospital Name: Fortis Hospital & Diagnostics
+Address: Plot No. 45, Sector 14, Noida, Uttar Pradesh, 201301
+Phone: +91-120-4567890
+Website: www.fortishospitals.com
+Bill Number: BILL-20250227-002
+Bill Date: 27/02/2025
+Subtotal: 27,070 INR
+Discount: -1,200 INR
+Service Tax (18% on Subtotal after discount): 4,698 INR
+Grand Total: 30,568 INR
+Payment Status: Paid
+Payment Mode: Credit Card
+Transaction ID: TXN2O250227-002
+Paid On: 27/02/2025
+]
+----------------------------------

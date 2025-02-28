@@ -1,0 +1,27 @@
+MetaData:
+{
+FileName: clinicaldata.pdf
+FileType: pdf
+}
+
+summary: This document is a medical lab report from DRLOGY PATHOLOGY LAB for patient Priya Iyer, aged 32. The report details a Complete Blood Count (CBC) performed on Feb 26, 2025. Results indicate mild anemia with low hemoglobin, RBC count, and PCV. Elevated RDW and slightly high basophils are also noted, suggesting red cell size variability and a minor inflammatory response.
+
+sentiment: neutral
+class: document
+tags: [CBC, Anemia, Blood Count, Lab Report, Pathology]
+datatype: both Numerical and Text
+importance: [5]
+---------------------------------
+Medical data:
+PatientName:[Priya Iyer
+        Patient Identification: Name: Priya Iyer
+Age: 32 Years
+Sex: Female
+PID: 104
+Sample Collected At:
+Plot No. 27, Gandhi Nagar;
+Chrompet, Chennai, Tamil Nadu
+Referred By:
+Dr: Meena Reddy
+        Clinical Data : The CBC reveals mild anemia with low hemoglobin (10.5 g/dL), RBC count (3.7 million/cumm), and PCV (32.0 %). Elevated RDW (15.0 %) and a slight rise in basophils (2%) are also noted.
+    ]

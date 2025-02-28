@@ -1,0 +1,31 @@
+MetaData: {
+FileName: nehasharmapatientdetails.pdf
+FileType: pdf
+}
+summary: This document is a patient information form for Neha Sharma, a 39-year-old Indian graphic designer. It includes her personal details such as address, contact information, and emergency contact. The form also contains her insurance information with Max Bupa Health Insurance. The document concludes with her signature and date, certifying the accuracy of the provided information.
+sentiment: neutral
+class: document
+tags: [Patient Information, Insurance, Personal Details, Contact Information, Emergency Contact]
+datatype: both Numerical and Text
+importance: 3
+---------------------------------
+Medical data:
+PatientName:[Neha Sharma
+    Patient Identification:
+        First Name: Neha
+        Last Name: Sharma
+        Date of Birth: 10/04/1985
+        Gender: Female
+        Blood Group: At
+        Marital Status: Single
+        Occupation: Graphic Designer
+        Nationality: Indian
+        Address: B-24, Lotus Apartments, Indira Nagar; Bangalore, Karnataka, 560038
+        Phone: +91-9988776655
+        Email: neha.sharma@example.com
+        Insurance Company: Max Bupa Health Insurance
+        Policy Number: MAX987654321
+        Group Number: GRP54321
+        Policy Validity: 01/04/2023 - 31/03/2024
+]
+----------------------------------

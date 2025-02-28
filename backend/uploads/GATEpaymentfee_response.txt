@@ -1,5 +1,10 @@
-summary: This document confirms the successful payment for the Graduate Aptitude Test in Engineering (GATE) 2025 application. The organising institute is the Indian Institute of Technology Roorkee. The payment of ₹1800 was received under the name of Sriram Govindaram with enrollment ID R42ow55. The transaction number is 113478302008 and the bank reference number is 881626.
-
-sentiment: positive
+MetaData: {
+FileName: GATEpaymentfee.pdf
+FileType: pdf
+}
+summary: The document is a payment receipt for the Graduate Aptitude Test in Engineering (GATE) 2025, organized by the Indian Institute of Technology Roorkee. It confirms successful payment of ? 1800 by SRIRAM GOVINDARAM (Enrollment Id: R42ow55) for the Application Fee. The transaction number is 113478302008 and the Bank ref No is 881626. The document includes a digital fingerprint and copyright information.
+sentiment: neutral
 class: document
-tags: GATE 2025, IIT Roorkee, Payment Confirmation, Application Fee, Transaction Details
+tags: [GATE 2025, Payment Receipt, Application Fee, IIT Roorkee, Transaction Details]
+datatype: both Numerical and Text
+importance: 3

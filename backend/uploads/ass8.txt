@@ -1,4 +1,4 @@
-MetaData: {
+MetaData : {
 FileName: ass8.pdf
 FileType: pdf
 }
@@ -260,10 +260,3 @@ Yes, the answer is correct _
 Score:
 Accepted Answers:
 b
-
-summary: The document is an assignment from the NPTEL Natural Language Processing course, specifically Week 8, and consists of multiple-choice questions related to lexical semantics, word sense disambiguation, and similarity measures. It includes questions about homonyms, hyponyms, hypernyms, synonymy, and Wordnet, as well as similarity calculations using Lin, Resnic, and Leacock-Chodorow methods. The assignment was due on March 20, 2024, and this submission was made on March 17, 2024. Some questions have correct answers indicated with scores. It also gives links to NPTEL website.
-sentiment: neutral
-class: document
-tags: NLP, Semantics, Wordnet, Similarity, Assignment
-datatype: both Numerical and Text
-importance: 3

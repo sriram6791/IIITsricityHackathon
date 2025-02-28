@@ -1,5 +1,11 @@
-summary: The text is an assignment from an NPTEL Natural Language Processing course, specifically Week 7. It contains multiple-choice questions on topics such as word co-occurrence matrices, word analogy using vectors, PMI (Pointwise Mutual Information), and word vector similarity measures like Dice, Jaccard, KL-divergence, and cosine similarity. The assignment includes questions regarding algorithms like CBOW and Skipgram. The due date for the assignment has passed, and solutions are available.
-
-sentiment: Neutral
+MetaData: {
+FileName: ass7.pdf
+FileType: pdf
+}
+summary: This document appears to be an assignment from an online Natural Language Processing course, specifically Week 7. It includes questions related to word embeddings, distributional semantics, and word co-occurrence matrices. The assignment covers topics like CBOW, PCA, word analogy, PMI, and similarity measures like Dice, Jaccard, KL-divergence, and cosine similarity. It contains multiple-choice questions with accepted answers and scoring information.
+sentiment: neutral
 class: document
-tags: NPTEL, Natural Language Processing, Assignment, Word Embeddings, Word Vectors, Cosine Similarity, PMI, KL-divergence, CBOW, Skipgram
+tags: NLP, Word Embeddings, Semantics, Assignments, NPTEL
+datatype: both Numerical and Text
+importance: 3
+---------------------------------

@@ -1,0 +1,259 @@
+{
+  "Groups": {
+    "Medical Bills": [
+      "billdata.pdf",
+      "vikrambilldata.pdf",
+      "nehabilldata.pdf",
+      "amitbilldata.pdf"
+    ],
+    "Clinical Data": [
+      "clinicaldata.pdf",
+      "vikramclinicaldata.pdf",
+      "nehaclinicaldata.pdf",
+      "amitclinicaldata.pdf"
+    ],
+    "Patient Details": [
+      "patientdetails.pdf",
+      "vikrampatientdetails.pdf",
+      "nehasharmapatientdetails.pdf",
+      "amitpatientdetails.pdf"
+    ],
+    "NLP Assignments": [
+      "ass8.pdf",
+      "ass7.pdf",
+      "ass6.pdf"
+    ],
+    "Resumes": [
+      "Sriram_Govindaram_2.pdf",
+      "Sriram_Govindaram_1.pdf"
+    ],
+    "Payment Receipts": [
+      "GATEpaymentfee.pdf"
+    ],
+    "Priya Iyer": [
+      "billdata.pdf",
+      "clinicaldata.pdf",
+      "patientdetails.pdf"
+    ],
+    "Vikram Singh": [
+      "vikrambilldata.pdf",
+      "vikramclinicaldata.pdf",
+      "vikrampatientdetails.pdf"
+    ],
+    "Neha Sharma": [
+      "nehabilldata.pdf",
+      "nehaclinicaldata.pdf",
+      "nehasharmapatientdetails.pdf"
+    ],
+    "Amit Verma": [
+      "amitbilldata.pdf",
+      "amitclinicaldata.pdf",
+      "amitpatientdetails.pdf"
+    ]
+  },
+  "Medical Data": {
+    "Priya Iyer": {
+      "Patient Identification": [
+        "Patient Identification: Patient ID: 104",
+        "Address: Plot No.",
+        "Gandhi Nagar; Chrompet; Chennai; Tamil Nadu, 600032",
+        "Contact: +91-9876501122",
+         "Name: Priya Iyer",
+        "Age: 32 Years",
+        "Sex: Female",
+        "PID: 104",
+        "Sample Collected At:",
+        "Plot No. 27, Gandhi Nagar;",
+        "Chrompet, Chennai, Tamil Nadu",
+        "First Name: Priya",
+        "Last Name: Iyer",
+        "Date of Birth: 22/11/1992",
+        "Gender: Female",
+        "Blood Group: O+",
+        "Marital Status: Single",
+        "Occupation: School Teacher",
+        "Nationality: Indian",
+        "Address:",
+        "Plot No_",
+        "Gandhi Nagar",
+        "Chrompet;",
+        "Chennai; Tamil Nadu, 600032",
+        "Phone: +91-9876501122",
+        "Email: priya iyer@example.com",
+        "Emergency Contact:",
+        "Name: Ravi Iyer",
+        "Relationship: Brother",
+        "Phone: +91-9988776654",
+        "Insurance Information:",
+        "Insurance Company: Religare Health Insurance",
+        "Policy Number: RELIG123456",
+        "Group Number: GRP55667",
+        "Policy Validity: 01/05/2023",
+        "30/04/2024",
+        "Emergency Address: Same as above"
+      ],
+      "Clinical Data": [
+        "The CBC reveals mild anemia with low hemoglobin (10.5 g/dL), RBC count (3.7 million/cumm), and PCV (32.0 %). Elevated RDW (15.0 %) and a slight rise in basophils (2%) are also noted.",
+        "Mild anemia with low hemoglobin, RBC count, and PCV. Elevated RDW and slightly high basophils are also noted."
+      ],
+      "Billing": [
+        "Bill Number: BILL-20250227-004",
+        "Bill Date: 27/02/2025",
+        "Subtotal: 15,450 INR",
+        "Discount: 1,200 INR",
+        "Service Tax (18% on Subtotal after discount): 2,508 INR",
+        "Grand Total: 16,758 INR",
+        "Payment Status: Pending",
+        "Payment Mode: Not Yet Paid",
+        "Due Date: 05/03/2025"
+      ]
+    },
+    "Vikram Singh": {
+      "Patient Identification": [
+        "Patient ID: 103",
+        "Patient Name: Vikram Singh",
+        "Address: Flat No. 210,Shivaji Nagar; Pune, Maharashtra, 411005",
+        "Contact: +91-9898765432",
+        "Name: Vikram Singh",
+        "Age: 35 Years",
+        "Sex: Male",
+        "PID: 103",
+        "Sample Collected At:",
+        "Flat No. 210, Shivaji Nagar;",
+        "Pune, Maharashtra",
+        "First Name: Vikram",
+        "Last Name: Singh",
+        "Date of Birth: 05/06/1990",
+        "Gender: Male",
+        "Blood Group: B+",
+        "Marital Status: Married",
+        "Occupation: Accountant",
+        "Nationality: Indian",
+        "Address:",
+        "Flat No. 210, Shivaji Nagar;",
+        "Pune, Maharashtra, 411005",
+        "Phone: +91-9898765432",
+        "Email: vikram.singh @example.com",
+        "Preferred Contact Method:",
+        "Phone",
+        "Email",
+        "Emergency Contact:",
+        "Name: Rajesh Singh",
+        "Relationship: Brother",
+        "Phone: +91-9123456789",
+        "Insurance Information:",
+        "Insurance Company: ICICI Lombard Health Insurance",
+        "Policy Number: ICIC123456",
+        "Group Number: GRP11223",
+        "Policy Validity: 01/07/2023",
+        "30/06/2024",
+        "Additional Details:",
+        "Residential Status: Owner",
+        "Emergency Address: Same as above"
+      ],
+      "Clinical Data": [
+        "High PCV",
+        "Elevated WBC count",
+        "Elevated Neutrophils",
+        "Low Lymphocytes"
+        , "Key findings indicate high Packed Cell Volume (PCV) and elevated WBC count, potentially suggesting dehydration or infection."
+      ],
+      "Billing": [
+        "Hospital Name: Columbia Asia Hospital & Diagnostics",
+        "Bill Number: BILL-20250227-003",
+        "Bill Date: 27/02/2025",
+        "Subtotal: 16,950 INR",
+        "Discount: 1,000 INR",
+        "Service Tax (18% on Subtotal after discount): 2,862 INR",
+        "Grand Total: 18,812 INR",
+        "Payment Status: Pending",
+        "Payment Mode: Not Yet Paid",
+        "Due Date: 05/03/2025"
+      ]
+    },
+    "Neha Sharma": {
+      "Patient Identification": [
+        "Patient ID: 102",
+        "Patient Name: Neha Sharma",
+        "Address: B-24, Lotus Apartments, Indira Nagar; Bangalore, Karnataka, 560038",
+        "Contact: +91-9988776655",
+        "Name: Neha Sharma",
+        "Age: 40 Years",
+        "Sex: Female",
+        "PID: 102",
+        "Sample Collected At:",
+        "B-24, Lotus Apartments,",
+        "Indira Nagar; Bangalore",
+        "First Name: Neha",
+        "Last Name: Sharma",
+        "Date of Birth: 10/04/1985",
+        "Gender: Female",
+        "Blood Group: At",
+        "Marital Status: Single",
+        "Occupation: Graphic Designer",
+        "Nationality: Indian",
+        "Address: B-24, Lotus Apartments, Indira Nagar; Bangalore, Karnataka, 560038",
+        "Phone: +91-9988776655",
+        "Email: neha.sharma@example.com",
+        "Insurance Company: Max Bupa Health Insurance",
+        "Policy Number: MAX987654321",
+        "Group Number: GRP54321",
+        "Policy Validity: 01/04/2023 - 31/03/2024"
+      ],
+      "Clinical Data": [
+        "The CBC reveals signs of anemia with low hemoglobin (11.0 g/dL), RBC count (3.8 million/cumm); and PCV (34.0 %). An elevated RDW (16.0 %) indicates significant anisocytosis while a slight rise in basophils (2 %) warrants additional evaluation.",
+        "signs of anemia including low hemoglobin, RBC count, and PCV. Elevated RDW indicates anisocytosis. A slight rise in basophils is noted."
+      ],
+      "Billing": [
+        "Hospital Name: Fortis Hospital & Diagnostics",
+        "Address: Plot No. 45, Sector 14, Noida, Uttar Pradesh, 201301",
+        "Phone: +91-120-4567890",
+        "Website: www.fortishospitals.com",
+        "Bill Number: BILL-20250227-002",
+        "Bill Date: 27/02/2025",
+        "Subtotal: 27,070 INR",
+        "Discount: -1,200 INR",
+        "Service Tax (18% on Subtotal after discount): 4,698 INR",
+        "Grand Total: 30,568 INR",
+        "Payment Status: Paid",
+        "Payment Mode: Credit Card",
+        "Transaction ID: TXN2O250227-002",
+        "Paid On: 27/02/2025"
+      ]
+    },
+    "Amit Verma": {
+      "Patient Identification": [
+        "Patient ID: 101, Name: Amit Verma, Address: 123, Gandhi Marg, Connaught Place, New Delhi, Delhi, 110001, Contact: +91-9876543210",
+         "Name: Amit Verma",
+        "Age: 46 Years",
+        "Sex: Male",
+        "PID: 101",
+        "Sample Collected At: 125, Shivam Bungalow; SG Road, Mumbai",
+        "First Name: Amit",
+        "Last Name: Verma",
+        "Date of Birth: 15/08/1978",
+        "Gender: Male",
+        "Blood Group: O+",
+        "Marital Status: Married",
+        "Occupation: Software Engineer",
+        "Nationality: Indian",
+        "Address: 123, Gandhi Marg, Connaught Place, New Delhi, Delhi, 110001",
+        "Phone: +91-9876543210",
+        "Email: amit.verma@example.com",
+        "Insurance Company: Apollo Health Insurance",
+        "Policy Number: APOL123456789",
+        "Group Number: GRP98765",
+        "Policy Validity: 01/01/2023",
+        "31/12/2023"
+      ],
+      "Clinical Data": [
+        "Low Hemoglobin", "Low RBC Count", "Elevated WBC Count", "High Neutrophils",
+        "Suggests possible underlying infection.",
+        "The report, generated on November 29, 2024, reveals mild anemia with low hemoglobin and RBC count. An elevated WBC count and neutrophil percentage suggest a possible infection."
+      ],
+      "Billing": [
+        "Bill Number: BILL-20250227-001, Bill Date: 27/02/2025, Subtotal: 24,150 INR, Discount/Concessions: -1,500 INR, Service Tax (18%): 3,600 INR, Grand Total: 22,650 INR, Payment Status: Pending, Payment Mode: Not Yet Paid, Due Date: 10/03/2025"
+      ]
+    }
+  }
+}

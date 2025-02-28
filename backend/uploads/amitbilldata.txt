@@ -1,0 +1,98 @@
+MetaData : {
+FileName: amitbilldata.pdf
+FileType: pdf
+}
+
+Hospital Name: Apollo Hospital & Diagnostics
+Address: Plot No. 12, Sector 15, Gurgaon, Haryana, 122001
+Phone: +91-124-4567890
+Website: wwwapollohospitals.in
+Bill Number: BILL-20250227-001
+Bill Date: 27/02/2025
+Patient ID: 101
+Patient Name: Amit Verma
+Address: 123, Gandhi
+Connaught Place, New Delhi, Delhi, 110001
+Contact: +91-9876543210
+Description
+Quantity
+Unit Price (INR)
+Total (INR)
+Consultation Fee
+1
+800
+800
+Laboratory Test Charges (CBC, etc:)
+1
+1500
+1500
+Pathology Service Fee
+1200
+1200
+Radiology (X-Ray)
+1
+500
+500
+Medicine Charges
+1
+2000
+2000
+Specialist Consultation
+1
+1000
+1000
+Nursing Charges
+1
+600
+600
+Ambulance Service
+1
+750
+750
+Emergency Service Fee
+1
+500
+500
+Room Charges (2 days)
+2
+2500
+5000
+Minor Surgical Procedure
+3000
+3000
+Post-Operative Care
+800
+800
+Miscellaneous Charges (Supplies, etc )
+L
+1000
+1000
+Administrative Fee
+1
+200
+200
+Marg,
+Subtotal:
+24,150 INR
+Discount/Concessions:
+-1,500 INR
+Service Tax (18% on Subtotal after discount):
+3,600 INR
+Grand Total:
+22,650 INR
+Payment Details:
+Payment Status: Pending
+Payment Mode: Not Yet Paid
+Due Date: 10/03/2025
+Additional Information:
+1_
+All charges are subject to applicable taxes
+2_
+This is an itemized bill for services rendered: Please review each entry carefully:
+3. For any queries regarding this bill, contact our billing department at +91-124-4567890.
+4_
+Retain this document for insurance and reimbursement purposes:
+5_
+Online payment options are available at wwwapollohospitals in/payment
+Thank you for choosing Apollo Hospital & Diagnostics.
+We wish you a speedy recovery:

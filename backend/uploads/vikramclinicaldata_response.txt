@@ -1,0 +1,30 @@
+MetaData: {
+FileName: vikramclinicaldata.pdf
+FileType: pdf
+}
+summary: This document is a pathology lab report for Vikram Singh, age 35, conducted at DRLOGY PATHOLOGY LAB. The report includes a Complete Blood Count (CBC) with results, reference values, and interpretations. Key findings indicate high Packed Cell Volume (PCV) and elevated WBC count, potentially suggesting dehydration or infection. Further clinical correlation is recommended by the Medical Lab Technician and Pathologist. The report was registered, collected, and reported on February 25, 2025.
+sentiment: neutral
+class: document
+tags: [CBC, Pathology Report, Blood Count, Lab Results, Medical Diagnostics]
+datatype: both Numerical and Text
+importance: [5]
+---------------------------------
+Medical data:
+PatientName:[Vikram Singh
+    Patient Identification:
+        Name: Vikram Singh
+        Age: 35 Years
+        Sex: Male
+        PID: 103
+        Sample Collected At:
+        Flat No. 210, Shivaji Nagar;
+        Pune, Maharashtra
+        Referred By:
+        Dr: Sunil Agarwal
+    Clinical Data :
+        High PCV
+        Elevated WBC count
+        Elevated Neutrophils
+        Low Lymphocytes
+]
+----------------------------------

@@ -1,0 +1,243 @@
+MetaData : {
+FileName: ass7.pdf
+FileType: pdf
+}
+
+6u 0r
+QptS
+swarm
+(https:Ilswayam:gov.in)
+(https:IIswayam gov.inlnc_details/NPTEL)
+cs22b2o20@iiitdm.ac.in
+NPTEL (https:Ilswayam =
+inlexplorer?ncCode-NPTEL)
+Natural Language Processing (course)
+Course
+Week 7
+Assignment 7
+outline
+The due date for submitting this assignment has passed:
+Due on 2024-03-13, 23:59 IST:
+About NPTEL
+Assignment submitted on 2024-03-11, 20.55 IST
+does an
+point
+NPTEL online
+work?
+Suppose you have a raw text corpus and you compute word co
+course
+occurrence matrix from there.
+Which of the following algorithm(s) can you utilize
+to learn word representations? (Choose all that apply)
+Week 0 ()
+a. CBOW
+b. SVM
+Week 1 ()
+C
+PCA
+d. Bagging
+Week 2 ()
+a
+Week 3 ()
+b
+Week 4 ()
+d
+Week 5 ()
+Yes, the answer is correct _
+Score:
+Week 6 ()
+Accepted Answers:
+a_
+Week 7 ()
+Lecture 31
+2)
+point
+Distributional
+gov.i
+How
+Semantics
+What is the method for solving word analogy questions Iike, given A,
+Introduction
+B and D, find C such that AB:C:D; using word vectors?
+(unit?
+unit-66&lesson
+a. Vc = Va + (Vb
+Va) , then use cosine similarity to find the closest word of Vc:
+=67)
+b. Vc = Va +
+(Va - Vb) then do dictionary lookup for Vc
+Lecture 32
+C
+Vc = Va + (Va
+Vb) then use cosine similarity to find the closest word of Vc:
+Distributional
+d. Vc = Va + (Va - Vb) then do dictionary lookup for Vc:
+Models of
+e
+None of the above
+Semantics
+(unit?
+a
+unit-66&lesson
+=68)
+b
+Lecture 33
+Distributional
+d
+Semantics
+Applications,
+Structured
+Yes, the answer is correct _
+Score:
+Models (unit?
+unit-66&lesson
+Accepted Answers:
+C_
+=69)
+Lecture 34
+3)
+point
+Word
+What is the value of
+PMI(W,, Wz) for C(W1) = 250, C(Wz) = 1000,
+Embeddings
+C(W1; Wz) = 160, N = 10OOOO? N: Total number of documents.
+Part |
+(unit?
+unit-66&lesson
+C(W;): Number of documents;
+W;has appeared in.
+=70)
+C(W; Wj ): Number of documents where both the words have appeared in.
+Note: Use base 2 in logarithm.
+Lecture 35
+Word
+a
+4
+Embeddings
+b. 5
+Part II (unit?
+c.6
+unit-66&lesson
+=71)
+d. 5.64
+Week 7 -
+Lecture
+Materials (unit?
+b
+unit-66&lesson
+=72)
+d
+Quiz: Week 7
+Yes, the answer is correct _
+Assignment
+Score:
+(assessment?
+Accepted Answers:
+name-212)
+~Week 7
+Feedback Form
+2 points
+(unit?
+unit-66&lesson
+=187)
+Week 7
+Assignment
+Solution (unit?
+unit-66&lesson
+Given two binary word vectors W1 and Wz as follows:
+=165)
+Wa = [1010101010]
+Week 8
+Wz = [0011111100]
+Compute the Dice and Jaccard similarity between them.
+Week 9
+a.
+6/11 , 3/8
+Week 10
+b
+10/11, 5/6
+C.
+4/9,217
+Week 11 ()
+d.
+5/9, 5/8
+Week 12 ()
+b
+Download
+videos
+d
+Text
+Yes, the answer is correct _
+Transcripts
+Score: 2
+Accepted Answers:
+Books
+5)
+2 points
+Problem
+Solving
+Consider two probability distributions for two words be p and q:
+Session
+Jan
+Compute their similarity scores with KL-divergence.
+2024 ()
+p =
+[0.20, 0.75, 0.50]
+q = [0.90, 0.10, 0.25]
+Note: Use base 2 in logarithm.
+a.4.704, 1,720
+b_
+1.692, 0.553
+c.2.246, 1.412
+d. 3.213,2.426
+b
+d
+Yes, the answer is correct
+Score: 2
+Accepted Answers:
+6)
+2 points
+Consider the following word co-occurrence matrix given below:
+Compute the cosine similarity between
+W1 and w2, and (ii) W1 and w3.
+W4
+w5
+W6
+w1
+8
+5
+W2
+2
+9
+7
+w3
+2
+3
+a.0.773,0.412
+b. 0.881, 0.764
+c.0.987,0.914
+d. 0.897,0.315
+b
+d_
+Yes, the answer is correct
+Score: 2
+Accepted Answers:
+point
+Which of the following type of relations can be captured by
+wordZvec (CBOW or Skipgram)?
+a.
+Analogy (A:B:C:?)
+b
+Antonymy
+c
+Polysemy
+d.
+All of the above
+a
+b
+d
+No, the answer is incorrect_
+Score: 0
+Accepted Answers:
+

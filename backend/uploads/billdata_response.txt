@@ -1,0 +1,29 @@
+MetaData: {
+FileName: billdata.pdf
+FileType: pdf
+}
+summary: This is a bill from Narayana Health Hospital & Diagnostics for Priya Iyer, dated 27/02/2025. The bill includes charges for consultations, lab tests, radiology, medicine, nursing, room charges, and other services. The subtotal is INR 15,450, with a discount of INR 1,200 and a service tax of INR 2,508, resulting in a grand total of INR 16,758. Payment is pending and due on 05/03/2025. Contact information for billing queries is provided.
+sentiment: neutral
+class: invoices
+tags: [Hospital Bill, Medical Invoice, Healthcare, Payment, Narayana Health]
+datatype: both Numerical and Text
+importance: [4]
+
+---------------------------------
+Medical data:
+PatientName:[Priya lyer
+        Patient Identification: Patient ID: 104
+Address: Plot No.
+Gandhi Nagar; Chrompet; Chennai; Tamil Nadu, 600032
+Contact: +91-9876501122
+        Billing : Bill Number: BILL-20250227-004
+Bill Date: 27/02/2025
+Subtotal: 15,450 INR
+Discount: 1,200 INR
+Service Tax (18% on Subtotal after discount): 2,508 INR
+Grand Total: 16,758 INR
+Payment Status: Pending
+Payment Mode: Not Yet Paid
+Due Date: 05/03/2025
+]
+----------------------------------

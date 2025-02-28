@@ -1,0 +1,25 @@
+MetaData: {
+FileName: amitclinicaldata.pdf
+FileType: pdf
+}
+summary: This document is a pathology lab report for Amit Verma, a 46-year-old male, including a Complete Blood Count (CBC) analysis performed by DRLOGY PATHOLOGY LAB. The report, generated on November 29, 2024, reveals mild anemia with low hemoglobin and RBC count. An elevated WBC count and neutrophil percentage suggest a possible infection. Clinical correlation is recommended for further evaluation.
+sentiment: neutral
+class: document
+tags: [CBC, Blood Count, Anemia, Infection, Pathology Report]
+datatype: both Numerical and Text
+importance: [5]
+---------------------------------
+Medical data:
+PatientName:[Amit Verma
+    Patient Identification:
+        Name: Amit Verma
+        Age: 46 Years
+        Sex: Male
+        PID: 101
+        Sample Collected At: 125, Shivam Bungalow; SG Road, Mumbai
+        Referred By: Dr: Hiren Shah
+    Clinical Data :
+        Abnormalities: Low Hemoglobin, Low RBC Count, Elevated WBC Count, High Neutrophils.
+        Symptoms: Suggests possible underlying infection.
+    ]
+----------------------------------

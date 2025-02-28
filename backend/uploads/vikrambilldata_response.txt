@@ -1,0 +1,31 @@
+MetaData: {
+FileName: vikrambilldata.pdf
+FileType: pdf
+}
+summary: This document is a bill from Columbia Asia Hospital & Diagnostics for patient Vikram Singh, dated 27/02/2025. The bill includes charges for various medical services, such as consultation, lab tests, radiology, medicine, and room charges, totaling 18,812 INR after discount and service tax. Payment is pending and due on 05/03/2025. Contact information for the billing department is provided for queries. The bill includes information about terms and conditions.
+sentiment: neutral
+class: invoices
+tags: [Bill, Hospital, Medical Services, Payment, Columbia Asia]
+datatype: both
+importance: [4]
+---------------------------------
+Medical data:
+PatientName:[Vikram Singh
+    Patient Identification:
+        Patient ID: 103
+        Patient Name: Vikram Singh
+        Address: Flat No. 210,Shivaji Nagar; Pune, Maharashtra, 411005
+        Contact: +91-9898765432
+    Billing :
+        Hospital Name: Columbia Asia Hospital & Diagnostics
+        Bill Number: BILL-20250227-003
+        Bill Date: 27/02/2025
+        Subtotal: 16,950 INR
+        Discount: 1,000 INR
+        Service Tax (18% on Subtotal after discount): 2,862 INR
+        Grand Total: 18,812 INR
+        Payment Status: Pending
+        Payment Mode: Not Yet Paid
+        Due Date: 05/03/2025
+]
+----------------------------------
